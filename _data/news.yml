@@ -1,8 +1,11 @@
+- date: 20. Junio 2021
+  headline: "Nuestro artículo <a href="https://openaccess.thecvf.com/content/CVPR2021W/LXCV/papers/Meza_MarkerPose_Robust_Real-Time_Planar_Target_Tracking_for_Accurate_Stereo_Pose_CVPRW_2021_paper.pdf">&quot;MarkerPose&#58; Robust Real-time Planar Target Tracking for Accurate Stereo Pose Estimation &quot;</a> quedó como el segundo mejor paper en el workshop LXAI de CVPR 2021. !Felicitaciones a Jhacson! <img src='/images/newspic/cvpr-best-paper-2021.jpg' class='img-responsive' style='max-width: 320px'/>"
+
 - date: 17. Mayo 2021
-  headline: "Artículo &quot;Method for large-scale structured-light system calibration&quot; aceptado en Optics Express."
+  headline: "Artículo <a href="https://www.osapublishing.org/abstract.cfm?uri=oe-29-11-17316">&quot;Method for large-scale structured-light system calibration&quot;</a> aceptado en Optics Express."
   
 - date: 5. Mayo 2021
-  headline: "Artículo &quot;Three-dimensional multimodal medical imaging system based on free-hand ultrasound and structured light&quot; aceptado en Optical Engineering. !Felicitaciones a Jhacson!"
+  headline: "Artículo <a href="https://arxiv.org/pdf/2105.14355">&quot;Three-dimensional multimodal medical imaging system based on free-hand ultrasound and structured light&quot;</a> aceptado en Optical Engineering. !Felicitaciones a Jhacson!"
 
 - date: 25. Abril 2021
   headline: "Nuestro trabajo &quot;MarkerPose&#58; Robust Real-time Planar Target Tracking for Accurate Stereo Pose Estimation &quot; fue aceptado como ponencia oral en el <a href='https://research.latinxinai.org/workshops/cvpr/cvpr-2021.html'> LXCV Workshop - Computer Vision and Pattern Recognition 2021</a>. !Felicitaciones a Jhacson!"
