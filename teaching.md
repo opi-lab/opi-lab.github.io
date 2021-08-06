@@ -9,6 +9,7 @@ permalink: /teaching/
 ## Cursos de posgrado  ##
 
 ### 2021
+- [Optical Metrology](http://opilab.utb.edu.co/optical-metrology-2021/)
 - [Seminario estadística](http://opi-lab.github.io/seminario-estadistica-2021/)
 - [Machine Learning for Signal Processing](http://opilab.utb.edu.co/ml4sp-2021/)
 
