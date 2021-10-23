@@ -37,6 +37,7 @@ permalink: /teaching/
 ## Cursos cortos ##
 
 ### 2021
+- [A Gentle Introduction to Scientific Writing](http://opilab.utb.edu.co/scientific-writing/)
 - [Seminario de investigación científica](http://opilab.utb.edu.co/seminario-maestria-2021/)
 
 ### 2020
