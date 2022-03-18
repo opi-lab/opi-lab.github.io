@@ -1,3 +1,6 @@
+---
+layout: page
+title: Seminario
 subtitle: 
 permalink: /seminar/
 ---
