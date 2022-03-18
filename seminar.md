@@ -23,7 +23,7 @@ Se lleva a cabo en el salón SJ-302 en el tercer piso del edificio Alcatraz los 
 |:--------|:---------|:--------------|
 | Mar 31  | Estrategias para publicar efectivamente | Andrés Marrugo |
 | Apr 21  | Sistemas de inteligencia artificial no-supervisados | Sergio Sanchez |
-| May 5   | Recientes avances en calibración de sistemas de luz estructurada 3D | Raúl Vargas |
+| May 5   | Avances en calibración de sistemas de luz estructurada 3D | Raúl Vargas |
 | May 19  | Modelando un sistema de luz estructurada 3D | Fernando Quintero |
 | Jun 2   | Creando un dataset sintético a partir de GANs | Kevin Mendoza |
 | Jun 16  | Estimación de poses 3D de manera robusta | Eberto Benjumea |
