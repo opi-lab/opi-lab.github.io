@@ -284,7 +284,8 @@ strong { color: #333333; }
 table {
   background-color: transparent;
   line-height: 1.5;
-  border-spacing: 40px 0;
+  border-spacing: 0px 0;
+  border:1px solid #000000;
 }
 
 .table, pre {
