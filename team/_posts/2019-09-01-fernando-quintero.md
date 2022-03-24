@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Fernando Quintero
-position: Estudiante de pregrado
+position: Estudiante de maestría
 handle: 
 email: fjquinterov@gmail.com
 twitter: https://twitter.com/fquinterov
