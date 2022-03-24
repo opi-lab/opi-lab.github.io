@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Caleb Romero
-position: Estudiante de pregrado
+position: Estudiante de maestría
 handle: 
 email: cadarome1998@hotmail.com
 twitter: 
