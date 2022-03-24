@@ -7,7 +7,7 @@ email: ingfabiovega1@hotmail.com
 twitter: 
 github: 
 scholar: 
-image: /images/photo-fabio.jpg
+image: /images/photo-fabio.jpeg
 cv: /pdfs/team/cv-fabio-vega.pdf
 ---
 
