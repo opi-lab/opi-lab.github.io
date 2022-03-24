@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Kevin Mendoza
-position: Estudiante de pregrado
+position: Estudiante de maestría
 handle: 
 email: kedameva@hotmail.com
 twitter: https://twitter.com/kevindavidmen18
