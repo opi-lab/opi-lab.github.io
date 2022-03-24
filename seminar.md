@@ -22,14 +22,15 @@ Se lleva a cabo en el salón SJ-302 en el tercer piso del edificio Alcatraz los 
 | Fecha   | Tópico   | Responsable   |
 |:--------|:---------|:--------------|
 | Mar 31  | Estrategias para publicar efectivamente | Andrés Marrugo |
-| Apr 21  | Sistemas de inteligencia artificial no-supervisados | Sergio Sanchez |
-| May 5   | Avances en calibración de sistemas de luz estructurada 3D | Raúl Vargas |
-| May 19  | Modelando un sistema de luz estructurada 3D | Fernando Quintero |
+| Apr 28  | Sistemas de inteligencia artificial no-supervisados | Sergio Sanchez |
+| May 12  | Recientes avances en calibración de sistemas de luz estructurada 3D | Raúl Vargas |
+| May 26  | Modelando un sistema de luz estructurada 3D | Fernando Quintero |
 | Jun 2   | Creando un dataset sintético a partir de GANs | Kevin Mendoza |
-| Jun 16  | Estimación de poses 3D de manera robusta | Eberto Benjumea |
-| Jun 23  | Calibración del color en imágenes médicas | Erik Barrios |
-| Jun 30  | Se puede entrenar una CNN a partir de una sola imagen? | Juan Camilo Peña |
-| Jul 7   |          |               |
+| Jun 9   | Estimación de poses 3D de manera robusta | Eberto Benjumea |
+| Jun 16  | Calibración del color en imágenes médicas | Erik Barrios |
+| Jun 23  | Se puede entrenar una CNN a partir de una sola imagen? | Juan Camilo Peña |
+| Jun 30  |          |               |
+| Jul 7   |          |               |
 | Jul 14  |          |               |
 | Jul 21  |          |               |
 | Jul 28  |          |               |
