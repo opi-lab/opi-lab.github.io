@@ -35,4 +35,4 @@ Se lleva a cabo en el salón SJ-302 en el tercer piso del edificio Alcatraz los 
 | Jul 21  |          |               | |
 | Jul 28  |          |               | |
 
-[link1]: {{ '/pdfs/estrategias-publicar-efectivamente-2022.pdf' | prepend: site.baseurl }}
+[link1]: https://opi-lab.github.io/pdfs/estrategias-publicar-efectivamente-2022.pdf
