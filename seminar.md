@@ -29,7 +29,7 @@ Se lleva a cabo en el salón SJ-302 en el tercer piso del edificio Alcatraz los 
 | Jun 9   | Estimación de poses 3D de manera robusta | Eberto Benjumea | |
 | Jun 16  | Calibración del color en imágenes médicas | Erik Barrios | |
 | Jun 23  | Se puede entrenar una CNN a partir de una sola imagen? | Juan Camilo Peña | |
-| Jun 30  |          |               | |
+| Jun 30  | Exposición óptima automática en proyección de franjas | Fabio Vega | |
 | Jul 7   |          |               | |
 | Jul 14  |          |               | |
 | Jul 21  |          |               | |
