@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Hernando Altamar
-position: Profesor asistente / Estudiante de doctorado
+position: Profesor asociado
 handle: 
 email: haltamar@utb.edu.co
 twitter: 

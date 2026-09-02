@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Andrés Marrugo
-position: Profesor asociado
+position: Profesor titular
 handle: agmarrugo
 email: agmarrugo@utbvirtual.edu.co
 twitter: agmarrugo
@@ -16,7 +16,7 @@ interests:
 - Optical Metrology
 ---
 
-Soy profesor asociado de la facultad de ingeniería de la Universidad Tecnológica de Bolívar en Cartagena y dirijo el laboratorio de óptica y procesamiento de imágenes (OPI&#x2219;Lab). Entre mis itereses investigativos se encuentran el procesamiento digital de imágenes médicas y la metrología óptica. 
+Soy profesor titular de la facultad de ingeniería de la Universidad Tecnológica de Bolívar en Cartagena y dirijo el laboratorio de óptica y procesamiento de imágenes (OPI&#x2219;Lab). Entre mis itereses investigativos se encuentran el procesamiento digital de imágenes médicas y la metrología óptica.
 
 <!--Andrés G. Marrugo recibió el título de ingeniero mecatrónico por la Universidad Tecnológica de Bolívar en el 2008, el título de M.Sc. en fotónica y Ph.D. en ingeniería óptica por la Universidad Politécnica de Cataluña en 2009 y 2013, respectivamente. Profesor Asociado del Departamento de Ingeniería Mecánica de la Universidad Tecnológica de Bolívar. Investigador Junior Escalafón Colciencias 2015. Entre sus intereses investigativos se destacan el procesado digital de señales e imágenes médicas, la visión por computador, metrología óptica y la inspección no-destructiva. -->
 

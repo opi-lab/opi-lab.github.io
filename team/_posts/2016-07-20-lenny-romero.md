@@ -1,7 +1,7 @@
 ---
 layout: member
 title: Lenny Romero
-position: Profesora asociada
+position: Profesora titular
 handle: 
 github: 
 image: /images/photo-lenny.jpg
@@ -12,4 +12,4 @@ interests:
 - Diffractive Optics
 ---
 
-Soy profesora asociada de la facultad de ciencias de la Universidad Tecnológica de Bolívar.
+Soy profesora titular de la facultad de ciencias de la Universidad Tecnológica de Bolívar.
